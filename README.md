@@ -1,6 +1,17 @@
 # Repository
 
-This repository implements the FDM training method for NeuralSDE. The codebase supports training and testing of models with configurable parameters for data, model architecture, and hyperparameters.
+This repository implements the FDM training method for NeuralSDE proposed in
+
+```
+@inproceedings{
+zhang2025efficient,
+title={Efficient Training of Neural Stochastic Differential Equations by Matching Finite Dimensional Distributions},
+author={Jianxin Zhang and Josh Viktorov and Doosan Jung and Emily Pitler},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=d4qMoUSMLT}
+}
+```
 
 ## Repository Structure
 
